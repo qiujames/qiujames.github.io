@@ -22,7 +22,7 @@ title: James Qiu
 email: qiujames@cs.washington.edu
 description: Hi! I'm James a computer science student at the University of Washington. Welcome to my webiste!
 baseurl: "" # the subpath of your site, e.g. /blogi
-url: https://qiujames.github.io "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://qiujames.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  qiujames
 linkedin_username: qiujames
 
