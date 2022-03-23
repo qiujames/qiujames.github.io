@@ -16,9 +16,7 @@
 title: James Qiu
 email: qiujames@cs.washington.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm James a computer science student at the University of Washington. Welcome to my webiste!
-# twitter_username: username
-github_username: qiujames
+  Personal website for James Qiu
 minimal_mistakes_skin: default
 search: true
 
@@ -57,18 +55,19 @@ plugins:
 
 author:
   name   : "James Qiu"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I'm James a computer science student at the University of Washington. Welcome to my website!"
+  avatar : "/assets/images/bio-img.jpeg"
+  bio    : "Typical computer science nerd at the University of Washington"
+  location: "Seattle, WA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://qiujames.github.io"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/doogerq"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/qiujames"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/doogerq"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/qiujames"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/qiujames"
@@ -94,9 +93,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
@@ -111,3 +110,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+atom_feed:
+  hide: true
