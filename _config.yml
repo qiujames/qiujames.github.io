@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "James Qiu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi! I'm James a computer science student at the University of Washington. Welcome to my webiste!"
+  bio    : "Hi! I'm James a computer science student at the University of Washington. Welcome to my website!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
