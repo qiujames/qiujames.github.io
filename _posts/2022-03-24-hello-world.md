@@ -1,7 +1,5 @@
 ---
 title: "Hello World!"
-header:
-    teaser: /assets/images/teaser/2022/03/hello-world-teaser.jpg
 ---
 
 Welcome to my blog! In the spirit of computer science tradition,
