@@ -1,8 +1,21 @@
 ---
 permalink: /about/
-title: "About"
+title: "Greetings!"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm James Qiu, a computer science undergraduate currently
+studying at the University of Washington.
+Looking ahead, I'm starting fulltime at [Stripe][stripe]
+once I graduate in the spring of 2022.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Previously, I've interned at Meta, Optiver, and Amazon, where
+I've been able to work on some pretty neat stuff (merge conflict
+resolution tooling, asynchronous task scheduling, combing through
+logs of hardware test failures, etc).
+
+Nowadays, you can find me playing volleyball with friends,
+nagging my roommates to wash the dishes, and still wearing
+those free company t-shirts. I also maintain this blog from
+time to time.
+
+[stripe]: https://stripe.com/about
