@@ -1,6 +1,6 @@
 ---
 title: "Penguins Can Fly"
-date: 2022-02-24
+date: 2022-03-14
 last_modified_at: 2022-03-25
 header:
   teaser: /assets/images/penguins-can-fly/PenguinsCanFlyTeaser.png
@@ -45,7 +45,7 @@ or checkout other capstone projects [here][capstone-site]!
   <figcaption>The best team I could ever ask for ❤️</figcaption>
 </figure>
 
-- Arthur Liu for baiting me into taking this class
+- Arthur Liu for baiting me working on this
 - Manan Gandhi for the gorgeous terrain
 - Taylor Ka for the terrific work in game design
 - The VR Capstone Teaching Staff for the valuable guidance
