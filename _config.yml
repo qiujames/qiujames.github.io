@@ -128,10 +128,3 @@ collections:
     output: true
     permalink: /:collection/:path/
     related: false
-
-# Google Analytics
-analytics:
-  provider: "google"
-  google:
-    tracking_id: "G-ZVC729D2HS"
-    anonymize_ip: false # default
