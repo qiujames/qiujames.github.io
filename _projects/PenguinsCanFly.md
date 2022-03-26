@@ -11,6 +11,9 @@ sidebar:
     text: "Backend Developer, Designer"
   - title: "Built With"
     text: "Unity, C#, Blender, Love ❤️"    
+  - title: "Built For"
+    text: "2022 UW VR Capstone"
+toc: true
 ---
 
 You’re a penguin - you’ve always dreamed of soaring through the sky, but you’re a chubby penguin. Now’s your chance to fly! Maneuver through the air with your hang glider, dodge obstacles to achieve high scores, and play as a party game with your friends in local multiplayer mode (which only requires one Oculus!)
@@ -45,7 +48,7 @@ or checkout other capstone projects [here][capstone-site]!
   <figcaption>The best team I could ever ask for ❤️</figcaption>
 </figure>
 
-- Arthur Liu for baiting me working on this
+- Arthur Liu for baiting me into taking an extra class
 - Manan Gandhi for the gorgeous terrain
 - Taylor Ka for the terrific work in game design
 - The VR Capstone Teaching Staff for the valuable guidance
