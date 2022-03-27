@@ -14,24 +14,6 @@ sidebar:
   - title: "Built For"
     text: "2022 UW VR Capstone"
   - text: "Time Spent: 10 weeks"
-gameplay-gallery:
-  - image_path: /assets/images/penguins-can-fly/TerrainPan.gif
-    url: /assets/images/penguins-can-fly/TerrainPan.gif
-    alt: "Glider Physics"
-  - image_path: /assets/images/penguins-can-fly/TerrainPan.gif
-    url: /assets/images/penguins-can-fly/TerrainPan.gif
-    alt: "Interactive Launch Sequence"
-  - image_path: /assets/images/penguins-can-fly/TerrainPan.gif
-    url: /assets/images/penguins-can-fly/TerrainPan.gif
-    alt: "Pesky Voice Spawned Obstacles from Local Multiplayer"
-aesthetics-gallery:
-  - image_path: /assets/images/penguins-can-fly/TerrainPan.gif
-    alt: "Homely Artic Village"
-  - image_path: /assets/images/penguins-can-fly/TerrainPan.gif
-    alt: "Cute Village Scene"
-terrain-generation-gallery:
-  - image_path: /assets/images/penguins-can-fly/TerrainPan.gif
-    alt: "Infinite Terrain Generation with Multiple Terrain Types"
 toc: true
 ---
 
