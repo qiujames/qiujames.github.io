@@ -17,14 +17,29 @@ sidebar:
 toc: true
 ---
 
-<figure style="width: 50%" class="align-center">
+Sidekick is an on-command assistant to help make cooking
+with recipes faster, easier, and cleaner. Sidekick is loaded on your phone and
+placed in your kitchen, where it will listen to your commands hands-free
+to guide you through any recipe.
+
+<figure style="width: 40%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sidekick/sidekick-inaction.png" alt="">
-  <figcaption>Sidekick in action</figcaption>
+  <figcaption>Sidekick: Your Kitchen Assistant</figcaption>
 </figure>
 
-<!-- TODO: PROJECT DESCRIPTION -->
+Our app verbally walks users through recipes step by step,
+all while responding to the user’s questions and commands.
+Sidekick will figure out what you want, and answer you based on your recipe,
+and will stay with you throughout your whole cooking process.  
+
+Powered by Facebook's wit.ai NLP API, Sidekick requires absolutely
+no preset command patterns to respond to audio commands.  
+The app determines the intent behind any question worded in
+any form and returns the relevant information the user wanted, all hands-free!
 
 ## Project Design
+
+Here's how we built it.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sidekick/sidekick-design.jpg" alt="">
@@ -40,8 +55,10 @@ toc: true
 
 ## See More
 
-Check out the project Devpost [here][sidekick-devpost]!  
-Also, here's the source [code][sidekick-repo] for the project.
+- [Project Devpost][sidekick-devpost]
+- [Project Source Code][sidekick-repo]
+- [WitAI][wit-ai]
+
 
 
 ## Meet The Team
@@ -54,3 +71,4 @@ Also, here's the source [code][sidekick-repo] for the project.
 
 [sidekick-devpost]: https://devpost.com/software/cookingbuddy
 [sidekick-repo]: https://github.com/mayaNg-git/sidekick-hackthenorth
+[wit-ai]: https://wit.ai/
