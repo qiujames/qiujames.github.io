@@ -3,10 +3,10 @@ title:  "Sidekick"
 date: 2021-01-17
 last_modified_at: 2022-03-27
 header:
-  teaser: /assets/images/sidekick/sidekick-banner.jpg
+  teaser: /assets/images/sidekick/sidekick-teaser.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/sidekick/sidekick-banner.jpg
+    image: /assets/images/sidekick/sidekick-teaser.jpg
     image_alt: "logo"
     text: "Fullstack Developer"
   - title: "Built With"
@@ -40,6 +40,8 @@ any form and returns the relevant information the user wanted, all hands-free!
 ## Project Design
 
 Here's how we built it.
+
+First, we process user input through Android
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sidekick/sidekick-design.jpg" alt="">

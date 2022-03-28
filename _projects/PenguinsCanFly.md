@@ -3,7 +3,7 @@ title: "Penguins Can Fly"
 date: 2022-03-14
 last_modified_at: 2022-03-25
 header:
-  teaser: /assets/images/penguins-can-fly/PenguinsCanFlyTeaser.png
+  teaser: /assets/images/penguins-can-fly/PenguinsCanFlyTeaser.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/penguins-can-fly/PenguinsCanFlySidebar.png
