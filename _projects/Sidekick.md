@@ -33,23 +33,38 @@ Sidekick will figure out what you want, and answer you based on your recipe,
 and will stay with you throughout your whole cooking process.  
 
 Powered by Facebook's wit.ai NLP API, Sidekick requires absolutely
-no preset command patterns to respond to audio commands.  
+no preset command patterns to respond to audio commands.
 The app determines the intent behind any question worded in
 any form and returns the relevant information the user wanted, all hands-free!
+(ie. You can ask "How many eggs are there?" or "Number of eggs?"
+or any other variation - Sidekick is just that flexible!)
 
 ## Project Design
 
 Here's how we built it.
-
-First, we process user input through Android
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sidekick/sidekick-design.jpg" alt="">
   <figcaption>Sidekick Design and Implementation</figcaption>
 </figure>
 
-<!-- Talk About Design of App -->
+First, we process audio input through Android Speech Recognizer
+to turn it into a string.
+Then, we pass the parsed text to the wit.ai API, where the
+intent from the text is learned from an NLP model
+(An intent represents the main semantics of a question).
 
+Using this intent, we then query a database for the quantity identified
+from wit.ai. Then, the app then plays an audio cue using speech to text
+letting the user know the answer to their question.
+
+For example, the intent for the questions
+"How many eggs are there?" and
+"Number of eggs?" would both be: "Quantity Eggs".
+After we query the database, we receive the number
+of eggs for the recipe and the app uses text to speech
+to output "This recipe calls for 2 eggs".
+{: .notice--success}
 
 ## Project Pitch
 
@@ -59,7 +74,7 @@ First, we process user input through Android
 
 - [Project Devpost][sidekick-devpost]
 - [Project Source Code][sidekick-repo]
-- [WitAI][wit-ai]
+- [wit.ai][wit-ai]
 
 
 
@@ -67,7 +82,7 @@ First, we process user input through Android
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sidekick/sidekick-team.jpg" alt="">
-  <figcaption>Caption</figcaption>
+  <figcaption>Team Georgie!</figcaption>
 </figure>
 
 
