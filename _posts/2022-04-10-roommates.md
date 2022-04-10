@@ -95,19 +95,18 @@ here's some stuff I got to do within the year:
 - Took a trip to the ER on Halloween
 
 While it does suck to have to deal with the unpleasantries that comes
-with living with others at times, (like having to clean up after parties),
+from living with others at times, (like having to clean up after parties),
 deciding to room with others has truly been the biggest blessing in disguise.
-Experiencing new situations has helped me see other perspectives in life.
+Experiencing new situations this year has helped me see other perspectives in life.
+and has significantly improved my social life. Trying new things is hard
+and uneasy at first, but it has definitely made me happier over this past year.
 
-I'd still prefer to stay in and study on the weekends rather
+I still prefer to stay in and study on the weekends rather
 than go chill at a bar, club, or ER room, despite my roommates'
 ~~terrible~~ influence on me to try new things.
 I still consider myself the same computer science nerd that I always was.
 It's just this time, I'm a computer science nerd who has
 gotten to experience things I might not have otherwise.
-
-That said, after I graduate I am *definitely* living alone.
-Living with four other roommates is a one and done for me.
 
 [^1]: You can find the full rant if you know where to look.
 
