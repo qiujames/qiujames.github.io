@@ -80,8 +80,8 @@ Without my roommates, I simply would have been a hermit with little to no social
 
 Instead, by having roommates, I inevitably found myself
 in situations I found somewhat discomforting at first.
-At times, they would blast a EDM, a genre of music I found distasteful
-at first, for hours on end in the living room. Other times, they
+At times, they would blast EDM, a genre of music I found distasteful
+initially, for hours on end in the living room. Other times, they
 hosted parties with a bunch of people I didn't know.
 Sometimes, they dragged me to go workout with them in the gym.
 In other words, they simply pushed me out of my comfort zone and got me
