@@ -1,5 +1,5 @@
 ---
-title: "Roommates"
+title: "Learning to Live With Roommates"
 dirty-gallery:
   - url: /assets/images/roommates/dirty1.jpeg
     image_path: /assets/images/roommates/dirty1.jpeg
