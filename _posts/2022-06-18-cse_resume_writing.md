@@ -1,5 +1,5 @@
 ---
-title: "Resume Writing"
+title: "CSE Resume Writing"
 toc: true
 density-gallery:
   - url: /assets/images/resume/sparse-resume-borderless.png
