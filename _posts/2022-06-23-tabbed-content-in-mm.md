@@ -82,6 +82,7 @@ but what we have is pretty polished IMO.
 - Code segments with syntax highlighting
 - Ability to add additional text content
 - Support for multiple tablist groups
+- Ability to scroll for overflowed tabs
 - Stylistically coherent with MM concepts/themes
 
 ## Demo

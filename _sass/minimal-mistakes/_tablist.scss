@@ -166,6 +166,10 @@
 
   .tablist-content {
     padding: 15px;
+
+    & p {
+      margin: 0;
+    }
   }
   
   .no-js {
