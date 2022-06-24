@@ -129,7 +129,7 @@ The contents positioning and spacing relative
 to that indentation will be perserved in the final output.
 {: .notice--info}
 
-And then drop-in the gallery include in the body where you'd like it to appear.
+And then drop-in the tablist include in the body where you'd like it to appear.
 
 | Include Parameter | Required | Description                                                                                                                                                       | Default                                                                      |
 | ----------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |

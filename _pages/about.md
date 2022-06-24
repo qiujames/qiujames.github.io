@@ -3,8 +3,8 @@ permalink: /about/
 title: "Greetings!"
 ---
 
-I'm James Qiu, a computer science undergraduate currently
-studying at the University of Washington.
+I'm James Qiu, a computer science ~~undergraduate currently
+studying at~~ new grad from the University of Washington.
 Looking ahead, I'm starting fulltime at [Stripe][stripe]
 once I graduate in the spring of 2022.
 
