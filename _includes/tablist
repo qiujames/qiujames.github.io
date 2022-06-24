@@ -1,0 +1,47 @@
+{% if include.id %}
+  {% assign tablist = page[include.id] %}
+  {% assign tablist_name = "tablist-" | append: include.id %}
+{% else %}
+  {% assign tablist = page.tablist %}
+  {% assign tablist_name = "tablist" %}
+{% endif %}
+
+<!-- TABLIST CONTENT -->
+
+<div class="tablist-container">
+  <div class="tablist">
+    <div class="tablist__inner-wrap">
+      <div class="tablist__menu">
+        <nav class="tablist-nav">
+          <ul class="visible-links">
+            {% for tab in tablist %}
+              <li class="tablist__menu-item">
+                <a class="{{ tablist_name }}-link {% if tab == tablist.first %}active{% endif %}" 
+                   onClick="tablistClickHandle(event, '{{ tablist_name }}', '{{ tab.title }}')">
+                   {{tab.title}}
+                </a>
+              </li>
+            {%- endfor -%}
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+
+  {% for tab in tablist %}
+<div 
+  id="{{ tablist_name }}-{{ tab.title }}"
+  class="{{ tablist_name }}-id-content tablist-content"
+  markdown="1"
+  style="display:{% if tab == tablist.first %}block{% else %}none{% endif %};"
+>
+{% if tab.code_content %}
+```{{ tab.language }}
+{{ tab.code_content }}```
+{% endif %}
+{% if tab.text_content %}
+{{ tab.text_content }}
+{% endif %}
+</div>
+  {% endfor %}
+</div>
