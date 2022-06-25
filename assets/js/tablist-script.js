@@ -8,7 +8,7 @@ function tablistClickHandle(evt, tablistName, tabTitle) {
   }
 
   // Set the tab to be "active".
-  tablinks = document.getElementsByClassName(tablistName + "-link");
+  tablinks = document.getElementsByClassName(tablistName + "-id-tab");
   for (i = 0; i < tablinks.length; i++) {
       tablinks[i].className = tablinks[i].className.replace(" active", "");
   }

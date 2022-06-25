@@ -32,12 +32,6 @@ hello-world-tablist:
       }
     text_content: |
       I sure to do love pointers!
-  - title: Ruby
-    language: ruby
-    code_content: |
-      puts 'Hello World'
-    text_content: |
-      Everyone loves [Ruby!](https://www.ruby-lang.org/en/)
   - title: HTML
     language: html
     code_content: |
@@ -51,9 +45,23 @@ hello-world-tablist:
       </html>
     text_content: |
       But let's be real here... HTML doesn't belong here
-  - title: Misc.
+  - title: Nested Python
     text_content: |
-      No code here! Just some text.
+      You can even add nested tablists as seen below:
+    nested_tablist: nested-python-tablist
+nested-python-tablist:
+  - title: Python2
+    language: python
+    code_content: |
+      print "hello world"
+    text_content: |
+      Alternative output printing in Python2
+  - title: Python3
+    language: python
+    code_content: |
+      print("hello world")
+    text_content: |
+      Output printing in Python3
 ---
 
 Tabbed content is pretty useful whenever you're writing
