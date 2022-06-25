@@ -1,7 +1,4 @@
-{::options parse_block_html="true" /}
 
-<details><summary markdown="span">{{ include.snippet }}</summary>
+<details markdown="1"><summary>{{ include.title }}</summary>
 {{ include.content }}
 </details>
-
-{::options parse_block_html="false" /}
