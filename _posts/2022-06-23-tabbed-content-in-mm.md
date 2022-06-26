@@ -91,6 +91,7 @@ but what we have is pretty polished IMO.
 - Ability to add additional text content
 - Support for multiple tablist groups
 - Ability to scroll for overflowed tabs
+- Nested tablists (see the "Nested Python" tab)
 - Stylistically coherent with MM concepts/themes
 
 ## Demo
