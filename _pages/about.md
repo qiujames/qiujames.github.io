@@ -3,12 +3,13 @@ permalink: /about/
 title: "Greetings!"
 ---
 
-I'm James Qiu, a computer science ~~undergraduate currently
-studying at~~ new grad from the University of Washington.
-Looking ahead, I'm starting fulltime at [Stripe][stripe]
-once I graduate in the spring of 2022.
+I'm James Qiu, a freshly graduated computer science major
+from the University of Washington.
+I'm currently working fulltime at [Stripe][stripe]
+on the Security team based out of Seattle. Feel free to reach out if you have
+any questions or if you want a referral!
 
-Previously, I've interned at Meta, Optiver, and Amazon, where
+Previously, I've interned at ~~Facebook~~ Meta, Optiver, and Amazon, where
 I've been able to work on some pretty neat stuff (merge conflict
 resolution tooling, asynchronous task scheduling, combing through
 logs of hardware test failures, etc).

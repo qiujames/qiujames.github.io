@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "James Qiu"
   avatar : "/assets/images/bio-img.jpeg"
-  bio    : "Typical computer science undergraduate at the University of Washington"
+  bio    : "Typical new grad software engineer currently working at Stripe"
   location: "Seattle, WA"
   links:
     - label: "Website"
