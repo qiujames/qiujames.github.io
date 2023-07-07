@@ -11,6 +11,8 @@ hello-world-tablist:
       can add text that is also formatted in **markdown**.
       You can add [links](https://qiujames.github.io/) or even images!
       ![birdie!](/assets/images/favicon.ico)
+  - title: Another Markdown
+    content_md: code.md
   - title: Java
     language: java
     code_content: |
@@ -130,6 +132,7 @@ tablist:
       ![birdie!](/assets/images/favicon.ico)
   - title: Java...
 ```
+
 
 Indentation matters! The YAML Front Matter expects
 one level of indentation after the `|` character 

@@ -4,6 +4,9 @@
   markdown="1"
   style="display:{{ include.display }}"
 >
+{% if tab.content_md %}
+{% include_relative tabbed_content/{{ tab.content_md }} %}
+{% endif %}
 {% if tab.code_content %}
 ```{% if tab.language %}{{ tab.language }}{% endif %}
 {{ tab.code_content }}```
