@@ -11,8 +11,6 @@ hello-world-tablist:
       can add text that is also formatted in **markdown**.
       You can add [links](https://qiujames.github.io/) or even images!
       ![birdie!](/assets/images/favicon.ico)
-  - title: Another Markdown
-    content_md: code.md
   - title: Java
     language: java
     code_content: |
