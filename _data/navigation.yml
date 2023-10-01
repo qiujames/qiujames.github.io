@@ -1,7 +1,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Blog"
+    url: /
   - title: "Projects"
     url: /projects/
+  - title: "Backlog"
+    url: /backlog/
   - title: "Resume"
     url: /files/resume/JamesQiuResume.pdf
