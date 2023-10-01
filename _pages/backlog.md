@@ -64,7 +64,7 @@ I'm too broke to get into it haha
 * Visibility
 * Promotion/Independence/First year thoughts?
 * If I feel complainy.... just complain about things (anonymously of course)
-* Working on something you care about? For money? 
+* Working on something you care about? For money?
 * Work life balance?
 
 #### Health Related
