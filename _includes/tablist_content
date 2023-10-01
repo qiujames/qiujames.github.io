@@ -1,11 +1,11 @@
 <div
-  id="{{ include.tablist_name }}-{{ tab.title }}"
-  class="{{ include.tablist_name }}-id-content tablist-content"
-  markdown="1"
-  style="display:{{ include.display }}"
+    id="{{ include.tablist_name }}-{{ tab.title }}"
+    class="{{ include.tablist_name }}-id-content tablist-content"
+    markdown="1"
+    style="display:{{ include.display }}"
 >
-{% if tab.content_md %}
-{% include_relative tabbed_content/{{ tab.content_md }} %}
+{% if tab.content_md_file %}
+{% include_relative {{ tab.content_md_file }} %}
 {% endif %}
 {% if tab.code_content %}
 ```{% if tab.language %}{{ tab.language }}{% endif %}
