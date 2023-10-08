@@ -26,13 +26,14 @@ of find better friends, you probably wouldn't lend them any money at all, and if
 keep it minimal and probably ask for payment soon since it's riskier.
 
 ## The Mental Model
-Despite the simplicity of the scenario, it provides a surprisingly accurate framework
-for understanding the core fundamentals of debt, credit, and investing.
-
 - **Core Idea 1**: Credit is the idea that we lend money to others with a degree of trust that they will repay us
 - **Core Idea 2**: A credit score is the way we measure how likely someone will pay back their debt -- A measure of risk.
 - **Core Idea 3**: Don't give money to Ardelle
+  
+Despite the simplicity of the scenario, the above provides a surprisingly accurate framework
+for understanding the core fundamentals credit, which will later extend into more involved topics later!
 
+We'll keep this blog post short and easy to understand for now.
 In a future blog post, we'll go over the concept of interest, and look into
 the importance of having a good credit score.
 
