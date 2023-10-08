@@ -1,5 +1,7 @@
 ---
 title: "Credit: A Primer"
+tags:
+- finance
 ---
 Suppose you have a friend who asks to borrow some money. Most likely, 
 unless you got trust issues or you're just heartless,
