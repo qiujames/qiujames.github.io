@@ -9,7 +9,7 @@ for myself, but here you go if you want to know what I think about
 #### Credit Cards
 I did a lot of research lol...
 *Yes I know there's potential legislation that will kill credit card rewards*
-* Concept of Credit
+* ~~Concept of Credit~~ [(10/6)](https://qiujames.com/credit_primer/)
 * What card to get
 * How to use a card
 * Maximizing credit rewards
