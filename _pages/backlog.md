@@ -22,7 +22,7 @@ I'm not a crypto bro though I swear
 * Faith of banking / Debt
 * Tax (how it works, what is is, how to file them, how to maximize your return)
 * Crypto? How it works, but not really
-* Tax Advantaged Accounts
+* Tax Advantaged Accounts / Roth / Traditional, 401K, when
 
 #### Watches
 I'm not fully into the hobby yet, but I know enough for a primer.
@@ -71,6 +71,11 @@ I'm too broke to get into it haha
 * Gymming (routine, nutrition, supplements?)
 * Importance of Sleep (and how I don't do that enough)
 * Volleyball? (rotation?, how I suck?)
+
+#### Pokemon Cards
+* Modern day pokemon investing
+* How to Properly Store / Protect Cards
+* Looking at Pokemon Card Gambling TikTok Rings
 
 #### Random
 * Pokemon Breeding (Perfect IVs) - don't judge, but you can express this as a graph problem
