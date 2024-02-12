@@ -9,8 +9,6 @@ for myself, but here you go if you want to know what I think about
 #### Credit Cards
 I did a lot of research lol...
 *Yes I know there's potential legislation that will kill credit card rewards*
-* ~~Concept of Credit~~ [(10/6)](https://qiujames.com/credit_primer/)
-* What card to get
 * How to use a card
 * Maximizing credit rewards
 
@@ -23,6 +21,10 @@ I'm not a crypto bro though I swear
 * Tax (how it works, what is is, how to file them, how to maximize your return)
 * Crypto? How it works, but not really
 * Tax Advantaged Accounts / Roth / Traditional, 401K, when
+* Why does the stock market go up?
+* Advanced portfolo management / Roboadvisors
+* Picking Stocks, Indices, Funds, Etc
+* Risk / Ie. No free lunch
 
 #### Watches
 I'm not fully into the hobby yet, but I know enough for a primer.
@@ -40,6 +42,8 @@ I'm too broke to get into it haha
 * Functional programming vs Object oriented programming
 * Maybe a series on how to learn programming
 * ChatGPT?
+* Translating problems using linear algebra
+* Applying statistics into real life
 
 #### Academics / College / Internships
 * Reflecting on my time at UW
@@ -47,7 +51,9 @@ I'm too broke to get into it haha
 * Imposter syndrome
 * Looking retroactively
 * Interning in Quant vs Big Tech vs Startup
-  * ~Facebook~ Meta vs Amazon vs Optiver vs small startup
+* ~Facebook~ Meta vs Amazon vs Optiver vs small startup
+* Perfection
+* Continuing education while working full time?
 
 #### Work Stuff - Technical
 * Writing documents
@@ -71,6 +77,7 @@ I'm too broke to get into it haha
 * Gymming (routine, nutrition, supplements?)
 * Importance of Sleep (and how I don't do that enough)
 * Volleyball? (rotation?, how I suck?)
+* Running (training, 5k, marathon, shoes)
 
 #### Pokemon Cards
 * Modern day pokemon investing
@@ -86,3 +93,6 @@ I'm too broke to get into it haha
 * Alcohol (wine?)
 * Should I keep recipe lists on this site? I'm not sure (or for you readers, it'll be what *NOT* to follow since my cooking is kind of bad)
 * Vacation / pics / more personal life stuff, ehhh don't feel strongly since this is public stuff
+* Gambling and Game Theory
+* EV and applying to real life concepts
+* Paradoxes
