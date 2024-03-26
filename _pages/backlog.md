@@ -96,3 +96,6 @@ I'm too broke to get into it haha
 * Gambling and Game Theory
 * EV and applying to real life concepts
 * Paradoxes
+* Telling a story from basic things
+* Fixing a washing machine
+* Catching fish and shaving asparagus 
