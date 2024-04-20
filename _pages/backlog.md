@@ -99,3 +99,4 @@ I'm too broke to get into it haha
 * Telling a story from basic things
 * Fixing a washing machine
 * Catching fish and shaving asparagus 
+* Prisoner's dilemma and free protein shakes
