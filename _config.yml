@@ -55,8 +55,10 @@ plugins:
 
 author:
   name   : "James Qiu"
-  avatar : "/assets/images/bio-img.jpeg"
-  bio    : "Typical new grad software engineer currently working at Stripe"
+  avatar : "/assets/images/bio-img2.jpeg"
+  bio: |
+    ~~New~~ Old Grad
+    SWE @ Stripe
   location: "Seattle, WA"
   links:
     - label: "Website"
