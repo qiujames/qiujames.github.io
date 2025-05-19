@@ -6,6 +6,17 @@ Stuff I should get around to writing about eventually. This is mainly
 for myself, but here you go if you want to know what I think about
 ### In no particular order...
 
+#### Random Thoughts
+* Flooding an apartment
+* Over engineering vs simplification
+* Trust
+* Rest / Doing Nothing
+* Softball, Baseball, + Gloves
+* Work mindset
+* Perverse Incentives
+* Apartment Building
+* Github
+
 #### Credit Cards
 I did a lot of research lol...
 *Yes I know there's potential legislation that will kill credit card rewards*
@@ -88,6 +99,7 @@ I'm too broke to get into it haha
 * Pokemon Breeding (Perfect IVs) - don't judge, but you can express this as a graph problem
   * I play a game called Pokemmo, and you can actually use this to analyze the market..
 * TFT - Ok this one you can judge me on, I'm a nerd
+* Pokemon Sleep
 * Fine dining ettiquete / dress code
   * My life goal is for the waiter not to redo my napkin when I leave the table
 * Alcohol (wine?)
