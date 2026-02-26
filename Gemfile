@@ -17,5 +17,3 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
 end
 
-# Needed for jekyll and ruby3
-gem "webrick", "1.8"
