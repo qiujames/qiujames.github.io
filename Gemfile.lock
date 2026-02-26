@@ -278,7 +278,7 @@ PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
-  github-pages (= 232)
+  github-pages
   jekyll-feed
   jekyll-gist
   jekyll-include-cache
@@ -286,7 +286,6 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   tzinfo-data
-  webrick (~> 1.7)
 
 BUNDLED WITH
    2.4.20
