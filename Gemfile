@@ -2,10 +2,10 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem 'faraday-retry', '~> 2.2'
-
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo-data"
+  gem "wdm", "~> 0.1.0" if Gem.win_platform?
+end
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
