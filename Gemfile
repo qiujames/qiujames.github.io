@@ -18,4 +18,3 @@ group :jekyll_plugins do
 end
 
 # Needed for jekyll and ruby3
-gem "webrick", "~> 1.7"
